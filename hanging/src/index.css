@@ -1,0 +1,11 @@
+body {
+  margin: 60px;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+
+}
+
+button {
+  margin: 5px;
+}
